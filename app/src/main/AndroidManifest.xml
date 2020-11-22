@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SiloFlow">
+        <activity android:name=".bil"></activity>
         <activity android:name=".shaquib"></activity>
         <activity android:name=".act1" />
         <activity android:name=".MainActivity">
